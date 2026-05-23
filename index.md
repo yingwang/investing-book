@@ -12,7 +12,7 @@ permalink: /
 从价值、指数到行为金融——写给认真对待财富的人。
 {: .fs-6 .fw-300 }
 
-[开始阅读 · 序言](/preface/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[开始阅读 · 序言]({{ '/preface/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub 仓库](https://github.com/yingwang/investing-book){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -40,13 +40,13 @@ permalink: /
 
 ## 全书结构
 
-- [**序言** 为什么写这本书](/preface/)
-- [**第一部** 投资的底层认知](/part-1/)
-- [**第二部** 价值投资经典派](/part-2/)
-- [**第三部** 指数化与被动投资](/part-3/)
-- [**第四部** 行为金融与心理学](/part-4/)
-- [**第五部** 实践与组合管理](/part-5/)
-- [**结语** 投资作为一生的修行](/epilogue/)
+- [**序言** 为什么写这本书]({{ '/preface/' | relative_url }})
+- [**第一部** 投资的底层认知]({{ '/part-1/' | relative_url }})
+- [**第二部** 价值投资经典派]({{ '/part-2/' | relative_url }})
+- [**第三部** 指数化与被动投资]({{ '/part-3/' | relative_url }})
+- [**第四部** 行为金融与心理学]({{ '/part-4/' | relative_url }})
+- [**第五部** 实践与组合管理]({{ '/part-5/' | relative_url }})
+- [**结语** 投资作为一生的修行]({{ '/epilogue/' | relative_url }})
 
 ---
 
