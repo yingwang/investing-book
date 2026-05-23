@@ -1,0 +1,47 @@
+title: 投资之道
+description: 从价值、指数到行为金融——写给认真对待财富的人
+author: yingwang
+lang: zh-CN
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-,　、，；：]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "返回顶部"
+
+nav_external_links:
+  - title: GitHub 仓库
+    url: https://github.com/yingwang/investing-book
+
+footer_content: '版权所有 &copy; 2026 yingwang。文中内容仅为投资知识与思维记录，不构成投资建议；据此投资，风险自担。'
+
+aux_links:
+  "在 GitHub 上查看":
+    - "https://github.com/yingwang/investing-book"
+
+ga_tracking_anonymize_ip: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+permalink: pretty
