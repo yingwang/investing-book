@@ -21,12 +21,12 @@ bundle exec jekyll serve
 
 ## 结构
 
-- `_config.yml` — Jekyll 配置
-- `index.md` — 首页
-- `preface.md` — 序言
-- `part-1/` ~ `part-5/` — 五部正文
-- `epilogue.md` — 结语
+- `_config.yml`：Jekyll 配置
+- `index.md`：首页
+- `preface.md`：序言
+- `part-1/` 至 `part-5/`：正文五个部分
+- `epilogue.md`：结语
 
-## 协议
+## 声明
 
-本书内容仅供学习与思维参考，不构成任何投资建议。
+本书内容仅供学习与思考参考，不构成任何具体的投资建议。
